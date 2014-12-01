@@ -1,4 +1,4 @@
-Blackbaud-CRM-BBIS-Donation-Transactions
+BBIS-Donation-Transactions
 ========================================
 
 ## What You Will Build ##
