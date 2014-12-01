@@ -1,0 +1,12 @@
+﻿<CSS>
+  <Class>
+    <Name>.cdfTitle</Name>
+    <DefaultStyle>
+      font-family: Tahoma;
+      font-size: 16pt;
+      color: #a0a0a0;
+    </DefaultStyle>
+    <Description>Title heading</Description>
+    <InheritsClass>.BBFormTitle</InheritsClass>
+  </Class>
+</CSS>
