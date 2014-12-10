@@ -3,9 +3,7 @@ BBIS-Donation-Transactions
 
 ## What You Will Build ##
 
-This code sample teaches you how to use a custom donation form to capture transactions from Blackbaud Internet Solutions. 
-
-You can use the code sample to create a custom donation form part and deliver its transactions to Blackbaud CRM.
+This code sample teaches you how to use a custom donation form to capture transactions from Blackbaud Internet Solutions. You can use the code sample to create a custom donation form part and deliver its transactions to Blackbaud CRM.  Learn more about these examples in the [Custom Framework Parts section](http://developer.blackbaud.com/bbis/guide/custom-framework-parts/) of the [BBIS Developer Guide](http://developer.blackbaud.com/bbis/guide/).
 
 ## Prerequisites ##
 
